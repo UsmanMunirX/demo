@@ -2,4 +2,4 @@
 
 this is my first git repository
 <br>
-this is my 2nd change(Good)
+this is my 2nd change(Nice work)
